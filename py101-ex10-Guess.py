@@ -37,7 +37,6 @@ if gNum == noOfGuess:
     print(f"You had {noOfGuess} guesses, and didn't any right. number was {num}")
 
 
-
 # version 2 (solution)
 num = 76
 guess = 0
